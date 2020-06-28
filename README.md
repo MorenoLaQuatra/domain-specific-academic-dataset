@@ -32,4 +32,5 @@ The source files are organized as follows:
 - `urls_test_bio.txt` contains a set of URLs to access the publications part of the **BioPubSumm** test set.
 - `urls_train_bio.txt` contains a set of URLs to access the publications part of the **BioPubSumm** train set.
 
-This data format relies on specific script borrowed by the [scientific-paper-summarisation repository](https://github.com/EdCo95/scientific-paper-summarisation/tree/master/DataDownloader) parts of the paper: Ed Collins, Isabelle Augenstein, Sebastian Riedel. [A Supervised Approach to Extractive Summarisation of Scientific Papers](https://arxiv.org/abs/1706.03946). To appear in Proceedings of CoNLL, July 2017.
+This data format relies on specific script borrowed by the [scientific-paper-summarisation repository](https://github.com/EdCo95/scientific-paper-summarisation/tree/master/DataDownloader) parts of the paper: 
+Ed Collins, Isabelle Augenstein, Sebastian Riedel. [A Supervised Approach to Extractive Summarisation of Scientific Papers](https://arxiv.org/abs/1706.03946). To appear in Proceedings of CoNLL, July 2017.
