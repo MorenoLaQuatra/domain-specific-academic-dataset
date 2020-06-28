@@ -3,7 +3,7 @@ This repository contain a collection of URLs that can be used to mine domain-spe
 
 Data were used to train and test a supervised machine learning-based summarization approach presented in the paper: 
 
-Luca Cagliero & Moreno La Quatra, *Extracting Highlights of Scientific Articles: a Supervised Summarization Approach*, Expert Systems with Applications, 2020, 113659, ISSN 0957-4174, https://doi.org/10.1016/j.eswa.2020.113659. 
+Cagliero L. & La Quatra M., *Extracting Highlights of Scientific Articles: a Supervised Summarization Approach*, Expert Systems with Applications, 2020, 113659, ISSN 0957-4174, https://doi.org/10.1016/j.eswa.2020.113659. 
 
 Keywords: Keyword: Highlight extraction; Extractive summarization; Regression models; Text mining and analytics
 
