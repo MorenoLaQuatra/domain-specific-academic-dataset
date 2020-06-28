@@ -7,7 +7,7 @@ Luca Cagliero & Moreno La Quatra, *Extracting Highlights of Scientific Articles:
 
 Keywords: Keyword: Highlight extraction; Extractive summarization; Regression models; Text mining and analytics
 
-This repository is intended for research purposes only. If you use his collection in your research work please cite:
+This repository is intended for research purposes only. If you use this collection in your research work please cite:
 
 ```
 @article{CAGLIERO2020113659,
