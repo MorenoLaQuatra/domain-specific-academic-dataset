@@ -1,5 +1,5 @@
 # Domain Specific Academic Dataset - Extractive Text Summarization
-This repository contain a collection of URLs that can be used to mine domain-specific academic datasets.
+This repository contains a collection of URLs that can be used to mine domain-specific academic datasets.
 
 Data were used to train and test a supervised machine learning-based summarization approach presented in the paper: 
 
