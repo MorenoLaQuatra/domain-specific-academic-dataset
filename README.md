@@ -13,16 +13,16 @@ This repository is intended for research purposes only. If you use this collecti
 
 ```
 @article{CAGLIERO2020113659,
-  title = "Extracting Highlights of Scientific Articles: a Supervised Summarization Approach",
-  journal = "Expert Systems with Applications",
-  pages = "113659",
-  year = "2020",
-  issn = "0957-4174",
-  doi = "https://doi.org/10.1016/j.eswa.2020.113659",
-  url = "http://www.sciencedirect.com/science/article/pii/S0957417420304838",
-  author = "Luca Cagliero and Moreno La Quatra",
-  keywords = "Keyword: Highlight extraction, Extractive summarization, Regression models, Text mining and analytics"
-}
+title = "Extracting highlights of scientific articles: A supervised summarization approach",
+journal = "Expert Systems with Applications",
+volume = "160",
+pages = "113659",
+year = "2020",
+issn = "0957-4174",
+doi = "https://doi.org/10.1016/j.eswa.2020.113659",
+url = "http://www.sciencedirect.com/science/article/pii/S0957417420304838",
+author = "Luca Cagliero and Moreno {La Quatra}",
+keywords = "Highlight extraction, Extractive summarization, Regression models, Text mining and analytics",
 ```
 
 # Organization
