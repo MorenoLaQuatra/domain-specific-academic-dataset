@@ -22,7 +22,8 @@ issn = "0957-4174",
 doi = "https://doi.org/10.1016/j.eswa.2020.113659",
 url = "http://www.sciencedirect.com/science/article/pii/S0957417420304838",
 author = "Luca Cagliero and Moreno {La Quatra}",
-keywords = "Highlight extraction, Extractive summarization, Regression models, Text mining and analytics",
+keywords = "Highlight extraction, Extractive summarization, Regression models, Text mining and analytics"
+}
 ```
 
 # Organization
