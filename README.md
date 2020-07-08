@@ -5,6 +5,8 @@ Data were used to train and test a supervised machine learning-based summarizati
 
 Cagliero L. & La Quatra M., *Extracting Highlights of Scientific Articles: a Supervised Summarization Approach*, Expert Systems with Applications, 2020, 113659, ISSN 0957-4174, https://doi.org/10.1016/j.eswa.2020.113659. 
 
+Free full access (before August 26th, 2020): https://authors.elsevier.com/a/1bMgg3PiGTFJ76
+
 Keywords: Keyword: Highlight extraction; Extractive summarization; Regression models; Text mining and analytics
 
 This repository is intended for research purposes only. If you use this collection in your research work please cite:
